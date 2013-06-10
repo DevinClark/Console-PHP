@@ -1,9 +1,9 @@
 <?php
 
-require("Console.php");
+require("Console-PHP.php");
 
 // You probably are familiar with Chrome DevTools but if not, you can read up on it here. (Console API Reference)[https://developers.google.com/chrome-developer-tools/docs/console-api]
-$test = new Console;
+$test = new Console_PHP;
 $test->log("This message won't output");
 
 // Clears the console.

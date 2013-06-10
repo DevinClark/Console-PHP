@@ -3,11 +3,12 @@
 // 
 // __A project by Devin Clark__  
 
-class Console {
+class Console_PHP {
 	// ## Instance Variable(s)
 	// An array of the statements to be outputted.  
 	private $statements;
-	// An associative array of the count labels and the number of times they have been invoked.  
+
+	// An associative array of the count labels and the number of times they have been invoked.    
 	private $count_log;
 
 	// ## Constructor(s)  
