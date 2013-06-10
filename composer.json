@@ -1,5 +1,5 @@
 {
-	"name": "DevinClark/Console-PHP",
+	"name": "devin-clark/console-php",
 	"type": "library",
 	"description": "Console Logging for PHP",
 	"keywords": ["log","logging", "console"],
