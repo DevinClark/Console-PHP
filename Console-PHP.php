@@ -83,12 +83,6 @@ class Console_PHP {
 			return $this;
 	}
 
-	// ## table ($data, $columns)
-	// I think the implementation of this one might be tricky.
-	public function table($data, $columns) {
-		// TODO: Put magic in here.
-	}
-
 	// ## print_errors()
 	// This method outputs a script tag with all the console.* statements you have previously called. 
 	public function print_errors() {
