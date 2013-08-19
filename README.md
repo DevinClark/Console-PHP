@@ -11,7 +11,7 @@ Using Composer:
         }
     }
 
-Otherwise, just download the class and drop it in somewhere and require it.
+Otherwise, just download the class and drop it in somewhere and require it. Pretty simple.
 
 ## Example
 
